@@ -1,0 +1,18 @@
+Question:Flat rate for flight
+
+1.Calculate cost based on distance and departure date for flight less then 500 miles= &100
+
+2.Calculate cost based on distance and departure date for flights betn 500 to 1000 miles
+	1.10 cents per miles if departing within 7 days
+	2.8 cents per miles if departing within 30 days
+	3. 6 cents per miles if departing within 90 days
+
+3.Calculate cost based on distance,departure date and service class for flights over 1000 miles
+	1.30 cents per miles if departing within 7 days
+	2.25 cents per miles if departing within 30 days
+	3.20 cents per miles if departing within 90 days
+
+Seat class:
+	Not applicable for Economy class
+	Double the cost for Business class
+	Triple the cost for First class
